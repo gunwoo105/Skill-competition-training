@@ -1,2 +1,2 @@
-# Skill-competition
+# Skill-competition-training
 Security occupation
